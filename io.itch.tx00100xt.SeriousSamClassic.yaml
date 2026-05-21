@@ -1,7 +1,7 @@
 app-id: io.itch.tx00100xt.SeriousSamClassic
 runtime: org.freedesktop.Platform
 sdk: org.freedesktop.Sdk
-runtime-version: '24.08'
+runtime-version: '25.08'
 command: serioussam
 
 finish-args:
